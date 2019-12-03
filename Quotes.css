@@ -1,0 +1,54 @@
+.accessories-shoe-flat-sneaker {
+  height: 34px;
+  width: 38.5px;
+}
+
+.rectangle-2 {
+  height: 48px;
+  width: 361px;
+  opacity: 0.12;
+  border-radius: 8px;
+  background-color: #C8C8C8;
+}
+
+.rectangle {
+  height: 72px;
+  width: 361px;
+  opacity: 0.45;
+  border-radius: 8px;
+  background-color: #C8C8C8;
+}
+
+.rectangle-1 {
+  height: 402.65px;
+  width: 360px;
+  border-radius: 8px;
+  background-color: #C8C8C8;
+}
+
+.events {
+  height: 11px;
+  width: 65px;
+  color: #000;
+  font-family: Arial;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  line-height: 11px;
+}
+
+.post-box {
+  height: 12px;
+  width: 80px;
+  color: #000;
+  font-family: "Bradley Hand ITC";
+  font-size: 10px;
+  letter-spacing: 4px;
+  line-height: 12px;
+}
+
+.bottom-standing-baggy-pants {
+  height: 183.5px;
+  width: 217px;
+}
+
